@@ -1,0 +1,11 @@
+Opera GX Translator v3.0 official release for Opera Add-ons submission.
+
+This ZIP contains:
+- Complete source code of the extension
+- manifest.json configuration
+- All scripts (background, content, popup)
+- Icons and styles
+- README.md and LICENSE (MIT License)
+- Privacy statement (privacy.txt)
+
+Developed by Veil Interactive.
